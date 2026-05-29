@@ -20,4 +20,3 @@ resource "docker_container" "web" {
     internal = 80
     external = 8080
   }
-}
